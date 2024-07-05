@@ -1,0 +1,66 @@
+topic_1 = [
+    "Describe something you own that you want to replace
+    You should say:
+    What it is
+    Where it is
+    How you got it
+    And explain why you want to replace it",
+    "What are other things that you want to replace?",
+    "What kinds of things do young people like to replace?",
+    "Do old people in VietNam like to collect and store things?",
+    "Who do you think will want new things, children or old people?",
+    "What's the difference between new things and old things?"
+]
+topic_2 = [
+    "Describe a person who often buys at the street market at a cheaper price
+    You should say:
+    Who this person is
+    What this person likes to buy
+    Where this person likes to buy things
+    And explain why this person likes cheap goods",
+    "What are the differences between shopping in a shopping mall and in a street market?",
+    "Which is more commonly visited in VietNam, shopping malls or street markets?",
+    "Is advertising important?",
+    "What are the disadvantages of shopping in a street market?",
+    "How do you buy cheap products?",
+    "Do you think things are more expensive in big shopping malls?"
+]
+topic_3 = [
+    "Describe a vehicle you would like to buy
+    You should say:
+    What kind of vehicle
+    Why you would like to have it
+    How you would get it
+    And explain why you would prefer this means of transport",
+    "What are the advantages and disadvantages of public and private transportation?",
+    "What are the advantages to society of having more people using mass transportation?",
+    "Compare the advantages and disadvantages of using mass transportation.",
+    "Why do some people have to travel a long distance every day to go to work?",
+    "What are the advantages and disadvantages of living in the centre of a city and living in the suburbs of a city?"
+]
+topic_4 = [
+    "Describe a historical building you have been to
+    You should say:
+    Where it is
+    What it looks like
+    What it is used for now
+    What you learned there
+    And explain how you felt about this historical building",
+    "Should everyone know history?",
+    "Why do people visit historical buildings?",
+    "Do Vietnamese people like to visit historical buildings?",
+    "Is it necessary to protect historical buildings?",
+    "Do most people agree to the government's funding to protect historical buildings?"
+]
+topic_5 = [
+    "Describe a person who encouraged you and helped you achieve a goal
+    You should say:
+    Who this person is
+    What this person encouraged you to do
+    How this person has helped you
+    And explain why their encouragement helped you achieve the goal",
+    "What will encourage children to learn more?",
+    "Do parents and teachers punish children physically nowadays?",
+    "Who do you think has a greater influence on the goal setting of children?",
+    "Why is it important for teenagers to set goals?"
+]
